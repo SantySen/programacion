@@ -23,7 +23,7 @@ frame_derecho.place(x=400,y=0,width= 400,height="800")
 
 
 
-titulo_label = tk.Label(frame_derecho, text="Inicio de Sesión", font=("Helvetica", 16))
+titulo_label = tk.Label(frame_derecho, text="Inicio de Sesión", font=("Arial black", 18))
 titulo_label.pack()
 
 
