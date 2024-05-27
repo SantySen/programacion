@@ -1,0 +1,20 @@
+{
+    "atencion": [
+        {
+            "atencion": "lavado",
+            "valor": 100000
+        },
+        {
+            "atencion": "cortar u\u00f1as",
+            "valor": "10000"
+        },
+        {
+            "atencion": "cepillado",
+            "valor": "400000"
+        },
+        {
+            "atencion": "limpieza de pulgas",
+            "valor": "30000"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "tipos": [
+        {
+            "problema": "pata rota",
+            "tipo": "perro"
+        },
+        {
+            "problema": "dermatitis",
+            "tipo": "perro"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": "123345",
+            "name": "santiago senior",
+            "username": "senior",
+            "password": "123",
+            "email": "santiagosenior.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "1234567",
+            "name": "Felipe",
+            "username": "felipe",
+            "password": "1234",
+            "email": "Felipe@gmail.com",
+            "role": "Vendedor"
+        }
+    ]
+}

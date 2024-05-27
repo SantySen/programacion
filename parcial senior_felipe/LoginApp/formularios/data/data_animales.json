@@ -1,0 +1,16 @@
+{
+    "animales": [
+        {
+            "nombre": "toby",
+            "genero": "macho",
+            "raza": "bull dog",
+            "tama\u00f1o": "peque\u00f1o"
+        },
+        {
+            "nombre": "juan",
+            "genero": "macho",
+            "raza": "pastor aleman",
+            "tama\u00f1o": "grande"
+        }
+    ]
+}

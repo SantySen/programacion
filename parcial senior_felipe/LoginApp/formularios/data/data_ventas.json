@@ -1,0 +1,28 @@
+{
+    "ventas": [
+        {
+            "animal": "Toby",
+            "atencion": "lavado",
+            "tipo": "perro",
+            "precio": 2222
+        },
+        {
+            "animal": "toby",
+            "atencion": "cortar u\u00f1as",
+            "tipo": "perro",
+            "precio": "10000"
+        },
+        {
+            "animal": "juan",
+            "atencion": "cepillado",
+            "tipo": "perro",
+            "precio": "40000"
+        },
+        {
+            "animal": "toby",
+            "atencion": "limpieza de pulgas",
+            "tipo": "perro",
+            "precio": "10000"
+        }
+    ]
+}
